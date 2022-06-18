@@ -1,0 +1,6 @@
+[submodule "DataEngineering/DataEngineeringStructures"]
+	path = DataEngineering/DataEngineeringStructures
+	url = https://github.com/monkEdward/de_structures.git
+[submodule "DataScience/DataScienceStructures"]
+	path = DataScience/DataScienceStructures
+	url = https://github.com/monkEdward/ds_structures.git
